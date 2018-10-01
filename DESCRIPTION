@@ -1,0 +1,13 @@
+Package: terminaltools
+Title: RStudio Terminal Tools
+Version: 0.1.0
+Authors@R: person("Gary", "Ritchie", email = "gary@rstudio.com", role = c("aut", "cre"))
+Description: Provides RStudio addins for the integrated terminal in RStudio 1.1 and above.
+Depends:
+    R (>= 3.0.0)
+Imports:
+    rstudioapi (>= 0.7)
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.0

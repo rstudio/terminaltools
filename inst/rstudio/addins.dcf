@@ -1,0 +1,4 @@
+Name: Close All Terminals
+Description: Close all open terminals
+Binding: closeAllTerminals
+Interactive: false
